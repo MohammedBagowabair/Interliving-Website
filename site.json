@@ -1,0 +1,8 @@
+{"repo":"Interliving-Website","name":"Interliving","wa":"60179732329",
+"title":"Interliving | Home interiors & organisation, Sunway Velocity KL",
+"desc":"Interliving is based at Designer Office Suites, Sunway Velocity, Kuala Lumpur. Send photos or a floor plan of your space on WhatsApp to talk through interior design, layout and organisation. +60 17-973 2329.",
+"theme":"#22241F","ogAlt":"Interliving – home interiors and organisation at Sunway Velocity, Kuala Lumpur",
+"fonts":[{"fam":"Archivo","w":"400 700","file":"archivo.woff2"},{"fam":"IBM Plex Mono","w":"500","file":"plexmono.woff2"}],
+"preloadFonts":["archivo.woff2"],
+"heroPreload":"    <link rel=\"preload\" as=\"image\" type=\"image/webp\" imagesrcset=\"./images/hero-m-480.webp 480w, ./images/hero-m-720.webp 720w\" imagesizes=\"100vw\" media=\"(max-width: 1023px)\" fetchpriority=\"high\" />\n    <link rel=\"preload\" as=\"image\" type=\"image/webp\" href=\"./images/hero-1400.webp\" media=\"(min-width: 1024px)\" fetchpriority=\"high\" />",
+"fs":"Archivo","fd":"Archivo","c404bg":"#F5F4EF","c404fg":"#22241F","c404acc":"#4D5A3F","c404onacc":"#fff"}
